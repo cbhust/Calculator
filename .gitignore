@@ -32,3 +32,5 @@
 *.app
 /Debug
 /.vs/Calculator/v15
+/Calculator/x64/Debug
+/x64/Debug
